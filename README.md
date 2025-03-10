@@ -1,8 +1,8 @@
-#SmartFly – AI-Powered Flight & Airport Analytics Assistant
+## **SmartFly – AI-Powered Flight & Airport Analytics Assistant**
 
 SmartFly is an advanced Agentic AI application designed to simplify air travel through intelligent flight and airport analytics. It leverages cutting-edge technologies such as GraphRAG, ArangoDB, NetworkX, and Nvidia acceleration to provide users with insights on the best flight routes, airport connectivity, and network analysis—all through a simple chat interface.
 
-#Key Features
+## **Key Features**
 Flight & Airport Queries
 SmartFly can answer a wide range of flight and airport-related queries, helping users quickly retrieve essential information about flights, airports, and their connections.
 
@@ -31,7 +31,7 @@ SmartFly intelligently combines ArangoDB for simple queries and NetworkX for com
 ArangoSearch
 The application also takes advantage of ArangoSearch for multimodal search capabilities, improving query understanding and the richness of insights.
 
-#Benefits of Using SmartFly
+## **Benefits of Using SmartFly**
 Simplicity
 SmartFly’s easy-to-use chat interface removes the need for complex filter settings, making it simple to get answers to your travel-related questions.
 
@@ -44,7 +44,7 @@ With the combination of ArangoDB, NetworkX, and Nvidia CuGraph, SmartFly can per
 Beyond Booking
 While other apps focus on ticket bookings, SmartFly provides deeper insights into airport connectivity, alternate routes, and travel optimization, helping users make smarter decisions.
 
-#Future Improvements
+## **Future Improvements**
 Real-Time Data Integration
 Plan to integrate live flight updates for real-time recommendations and to keep the app more dynamic.
 
@@ -53,4 +53,9 @@ Expand SmartFly to support multiple languages, increasing accessibility for inte
 
 Personalized Travel Insights
 Develop a system that tailors recommendations based on user preferences and travel history.
+
+## **Usage**
+The application (smartFly_Final.ipynb) works on Google Colab, ensure a suitable GPU hardware is selected in the Runtime.
+
+Note:- The demo of this application is available in the PPT "Hackathon_Demo.pptx" along with the detailed explanation as to how to connect to ArangoDB client and to set the view for ArangoSearch.
 
